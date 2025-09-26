@@ -1,6 +1,8 @@
 # vscode-config-2
 a clean violet blur config
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e1711b9b-9f40-4f65-9149-d4746fbc6d6a" />
+
 ---
 
 1. download the theme - https://marketplace.visualstudio.com/items?itemName=lakshits11.ayu-monokai
