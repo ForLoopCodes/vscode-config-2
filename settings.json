@@ -27,7 +27,9 @@
   "window.commandCenter": false,
   "background.fullscreen": {
     "images": [
-      "file:///C:/Users/Meet%20Patel/Desktop/wallpapers/anime/light/122072275_p0.png"
+      // ======= CHANGE THIS URL TO THE IMAGE =======
+      "file:///C:/Users/ForLoop/Desktop/wallpapers/anime/light/122072275_p0.png"
+      // ======= CHANGE THIS URL TO THE IMAGE =======
     ],
     "opacity": 0.21,
     "size": "cover",
