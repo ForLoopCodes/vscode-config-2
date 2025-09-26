@@ -1,4 +1,4 @@
-# vscode-config-1
+# vscode-config-2
 a clean violet blur config
 
 ---
